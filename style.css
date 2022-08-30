@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(to right,red,orange);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+h1{
+    text-align: center;
+}
+#search{
+    border-radius: 5px;
+    width:400px;
+    padding: 0.5 rem;
+}
+button{
+    font-size: 18px;
+    font-style: bold;
+    background-color: red;
+    border:none;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 100px;
+
+}
+.fav-meals{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
